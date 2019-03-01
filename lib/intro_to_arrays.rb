@@ -6,7 +6,7 @@ end
 
 
 def array_with_two_elements
-   array_with_two_elements = [1, 2]
+   array_with_two_elements = ["alpha", "bravo"]
    @my_two_array = array_with_two_elements
  end
 
