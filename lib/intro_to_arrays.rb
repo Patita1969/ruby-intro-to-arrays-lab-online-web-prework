@@ -39,3 +39,10 @@ def array_with_two_elements
    @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
    last_country = @south_east_asia.last
  end
+
+
+
+ def length_of_array(length)
+    @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+    length = @programming_languages.length
+  end
